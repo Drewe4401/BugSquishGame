@@ -16,3 +16,7 @@ In this game, players click on bugs appearing on the screen to squish them as fa
 
 * Sketch.js: This file contains the game logic, including setting up the game environment, drawing the bugs and game elements on the screen, handling user input, updating the game state, and managing sound effects and music.
 
+### Github Pages Link to Play
+
+https://drewe4401.github.io/BugSquishGame/
+
